@@ -13,7 +13,7 @@ public class palindrome {
             System.out.print("Is a palidrome. ");
         } else {System.out.print("Is not a palidrome. ");}
 
-    }
+    } ///
 
     public static int isPalindrome(String str) {
         String reversed = "";
